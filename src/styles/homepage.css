@@ -1,0 +1,24 @@
+
+:root {
+     --clr-primary: #F2AC57;
+     --clr-secondary:#90BF7A;
+     --btn-clr-primary:#D95043;
+}
+
+/*CADDING USTOM FONTS*/
+
+@font-face {
+    font-family: 'Roboto-slab';
+    src: url('/assets/fonts/RobotoSlab-Bold.ttf'); 
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Roboto-slab';
+    src: url('/assets/fonts/RobotoSlab-Regular.ttf'); 
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Roboto-slab';
+    src: url('/assets/fonts/RobotoSlab-SemiBold.ttf'); 
+    font-weight:700;
+}
