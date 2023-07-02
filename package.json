@@ -1,0 +1,25 @@
+{
+  "name": "wcc_s1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "glupfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiaDev7474/wcc_s1_fokotany_ambanilalana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiaDev7474/wcc_s1_fokotany_ambanilalana/issues"
+  },
+  "homepage": "https://github.com/TiaDev7474/wcc_s1_fokotany_ambanilalana#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2"
+  }
+}
